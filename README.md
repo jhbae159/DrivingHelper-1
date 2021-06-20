@@ -1,6 +1,6 @@
 # Development of AI model for Racing Driving Level Classification
 
-This repository describes a team project conducted at Yonsei University's MACHINE LEARNING AND PROGRAMMING (MEU5053) in the first semester of 2021. All codes were written by jupyter notebook.
+This repository describes a team project conducted at Yonsei University's MACHINE LEARNING AND PROGRAMMING (MEU5053) in the first semester of 2021. All codes were written by jupyter notebook. Required packages are written in 'requirements.txt'
 
 ## 1. Problem Formulation
 ### 1-1. Motivation & Background
